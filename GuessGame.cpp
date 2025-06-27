@@ -12,6 +12,6 @@ int main()
 			break;
 		}
 		
-	}while(true);
+	}while(1);
 	return 0;
 }
